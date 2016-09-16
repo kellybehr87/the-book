@@ -1,4 +1,4 @@
-# the-book
+# The Book
 
 ## The Macedonian
 
